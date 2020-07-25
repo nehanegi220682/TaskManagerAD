@@ -1,0 +1,27 @@
+.formitems {
+  margin: auto;
+}
+
+/* .center {
+    justify-content: center;
+  } */
+.formbox {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.formContainer {
+  background: #2475b0;
+  height: 100vh;
+}
+.form {
+  background: rgb(66, 70, 67);
+  width: 500px;
+  padding: 20px;
+}
+
+.pageHeading {
+  color: white;
+}

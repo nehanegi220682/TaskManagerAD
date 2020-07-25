@@ -1,0 +1,19 @@
+.sortingDropdown {
+  display: inline;
+}
+
+.add_icon {
+  height: 35px;
+  width: 35px;
+}
+.pen {
+  height: 22px;
+  width: 22px;
+}
+.del {
+  height: 22px;
+  width: 22px;
+}
+.heavy {
+  font-weight: 700;
+}

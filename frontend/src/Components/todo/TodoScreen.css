@@ -1,0 +1,30 @@
+.TodoWrapper {
+  width: 800px;
+  background-color: #25ccf7;
+  margin: auto;
+  margin-top: 40px;
+}
+.todoHeader {
+  background-color: rgb(148, 201, 245);
+}
+
+.introPara {
+  width: 100%;
+  display: flex;
+  font-weight: 500;
+  line-height: 2rem;
+  font-size: 1.5rem;
+  margin-bottom: 0px;
+  padding: 5px;
+  background-color: #0abde3;
+}
+
+.nameIconWrapper {
+  margin-left: auto;
+  display: inline;
+}
+
+.userName {
+  font-weight: 900;
+  font-size: 1.2rem;
+}
